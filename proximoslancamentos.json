@@ -1,4 +1,12 @@
-{
-  "codigo": "Tst01",
+[
+  {
+"codigo": "Tst01",
   "nomeRelease": "Lancamento 01"
+},
+{
+  
+  "codigo": "Tst02",
+  "nomeRelease": "Lancamento 02"
 }
+  
+]
