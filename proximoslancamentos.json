@@ -1,6 +1,6 @@
-{
+
   {
-"codigo": "Tst01",
+  "codigo": "Tst01",
   "nomeRelease": "Lancamento 01"
 },
 {
@@ -9,4 +9,4 @@
   "nomeRelease": "Lancamento 02"
 }
   
-}
+
