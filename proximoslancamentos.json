@@ -16,16 +16,16 @@
   "nomeRelease": "Kastiphas (Brasil) - Negative Current of Nature"
   },
   {
-  "codigo": "NMat??",
+  "codigo": "NMat15",
   "nomeRelease": "Thirwërod (Brasil) - Tales of Witchcraft"
+  },
+   {
+  "codigo": "NMat16",
+  "nomeRelease": "Dark Misanthropy (Brasil) - Nuclear Purification "
   },
    {
   "codigo": "NMat??",
   "nomeRelease": "The Crimson Brigade (Reino Unido) - Blood Battalion"
-  },
-   {
-  "codigo": "NMat??",
-  "nomeRelease": "Dark Misanthropy (Brasil) - Nuclear Purification "
   },
   {
   "codigo": "NMat??",
@@ -54,7 +54,15 @@
   {
   "codigo": "NMat??",
   "nomeRelease": "Goat Kommander (Brasil) - Bestial Torment "
-  }
+  },
+  {
+   "codigo": "NMat??",
+  "nomeRelease": "Die Entweihung (Israel) - Kings & Pawns "
+  },
+  {
+   "codigo": "NMat??",
+  "nomeRelease": "Ezurate (EUA) - Summon Thy Legions "
+  }    
 ]  
 
 
